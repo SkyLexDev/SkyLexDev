@@ -1,0 +1,4 @@
+- Hello, I am SkyLex coding discord bot with djs for 3 years.
+- Where you can reach me;
+- [YouTube](https://bit.ly/jsdark)
+- [Discord](https://discord.gg/codeshare)
