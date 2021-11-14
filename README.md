@@ -1,6 +1,6 @@
-**Selam ben [SkyLex](http://https://github.com/SkyLexDev "SkyLex")!**
+**Selam ben [SkyLex](https://discord.gg/VgeHmPNXvj "SkyLex")!**
 
-<img src="https://komarev.com/ghpvc/?username=SkyLex&label=Ziyaretçi%20Sayısı&color=70cdcd" alt="SkyLex" />
+<img src="https://komarev.com/ghpvc/?username=SkyLex&label=Ziyaretçi%20Sayısı&color=fe7e7d" alt="SkyLex" />
 
 
 **Bana ulaşabileceğiniz sosyal medya hesaplarım:**
